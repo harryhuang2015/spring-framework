@@ -12,6 +12,9 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ * <ch-harray>
+ *     Spring Ioc容器基类，实现获取创建bean相关接口
+ * </ch-harry
  */
 
 package org.springframework.beans.factory;
